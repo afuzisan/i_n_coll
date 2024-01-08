@@ -1,0 +1,40 @@
+﻿table a{
+color:#003366;
+font-weight:bold;
+}
+#container{
+	padding-top:10px;
+	background-color: #fff;
+}
+#container img{
+	width:30px;
+	height:30px;
+	margin:auto;
+	padding-left:3px;
+	float:right;
+}
+img{
+	width:440px;
+	height: 200px;
+	margin:auto;
+}
+
+input[type=text] {
+padding:10px;
+font-size:1.3em;
+font-family:Arial, sans-serif;
+border:solid 1px #ccc;
+margin:0 0 20px;
+width:300px;
+margin-left: 10px;
+}
+input[type=button] {
+	height:30px;
+	margin:0px;
+	padding:0px;
+}
+textarea{
+	width: 270px;
+	height:147px;
+
+}
